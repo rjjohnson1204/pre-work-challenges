@@ -1,0 +1,7 @@
+C:\Users\rjjohnson\codefellows\401\pre-work-challenges\code-challenge\code-challenge\obj\Debug\code-challenge.csprojAssemblyReference.cache
+C:\Users\rjjohnson\codefellows\401\pre-work-challenges\code-challenge\code-challenge\obj\Debug\code-challenge.csproj.CoreCompileInputs.cache
+C:\Users\rjjohnson\codefellows\401\pre-work-challenges\code-challenge\code-challenge\bin\Debug\code-challenge.exe.config
+C:\Users\rjjohnson\codefellows\401\pre-work-challenges\code-challenge\code-challenge\bin\Debug\code-challenge.exe
+C:\Users\rjjohnson\codefellows\401\pre-work-challenges\code-challenge\code-challenge\bin\Debug\code-challenge.pdb
+C:\Users\rjjohnson\codefellows\401\pre-work-challenges\code-challenge\code-challenge\obj\Debug\code-challenge.exe
+C:\Users\rjjohnson\codefellows\401\pre-work-challenges\code-challenge\code-challenge\obj\Debug\code-challenge.pdb
